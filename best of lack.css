@@ -4,5 +4,12 @@ p{
     background-color: blue;
     margin: 20px;
     padding: 20px;
-    
 }
+    audio{
+        border: 10px solid tomato;
+        margin: 10px;  
+    }
+    video{
+        border: 10px solid tomato;
+        margin: 10px;
+    }
